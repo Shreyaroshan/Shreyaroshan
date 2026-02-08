@@ -1,5 +1,5 @@
 # 💫 About Me:
-about me<br>connect with me<br>tech stack<br>github stats
+Hey, I'm Shreya Roshan<br>Passionate about technology and problem-solving. I like exploring new tools, working on projects, and continuously learning to improve my skills.
 
 
 ## 🌐 Socials:
